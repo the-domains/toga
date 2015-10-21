@@ -1,6 +1,6 @@
 name: toga
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.73525
 typography_spectrum: 0.4813
 title: toga
 cta:
@@ -22,8 +22,8 @@ color:
     - '#008080'
     - '#000080'
     - '#0000ff'
-  brandStrength: 0.3125
+  brandStrength: 0.25
   lightness: 0.3125
-  saturation: 0.5
+  saturation: 0.3125
   rhythmicContrast: 0.25
 purpose: []

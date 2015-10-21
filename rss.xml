@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[toga]]></title>
         <description><![CDATA[toga]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/toga/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 21 Oct 2015 19:23:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 21 Oct 2015 19:29:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/toga/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Star Wars: The Force Awakens Trailer (Official)]]></title>
+            <description><![CDATA[<article><h1>Star Wars: The Force Awakens Trailer (Official)</h1><p>Watch the official trailer for Star Wars: The Force Awakens, coming to theaters December 18, 2015.</p><img src="https://i.ytimg.com/vi/sGbxmsDFVnE/hqdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=sGbxmsDFVnE</link>
+            <guid isPermaLink="false">03c09a7c-6a03-40f3-8965-63af8920a48b</guid>
+            <pubDate>Wed, 21 Oct 2015 19:28:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://www.toga.no/wp-content/uploads/2012/03/127.jpg">]]></description>
-            <link>undefinede5e273f0-7122-4dd2-9696-f93e875d7e5e/index.html</link>
+            <link>https://thegrid.ai/toga/e5e273f0-7122-4dd2-9696-f93e875d7e5e/index.html</link>
             <guid isPermaLink="false">e5e273f0-7122-4dd2-9696-f93e875d7e5e</guid>
             <pubDate>Wed, 21 Oct 2015 19:23:26 GMT</pubDate>
         </item>

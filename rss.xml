@@ -4,8 +4,15 @@
         <description><![CDATA[toga]]></description>
         <link>https://thegrid.ai/toga/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 21 Oct 2015 20:07:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Oct 2015 20:07:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/toga/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://www.toga.no/wp-content/uploads/2011/06/167.jpg">]]></description>
+            <link>https://thegrid.ai/toga/ae22d24b-515b-443b-a0ca-ae4a38032354/index.html</link>
+            <guid isPermaLink="false">ae22d24b-515b-443b-a0ca-ae4a38032354</guid>
+            <pubDate>Wed, 21 Oct 2015 20:06:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://www.toga.no/wp-content/uploads/2011/08/650.jpg">]]></description>

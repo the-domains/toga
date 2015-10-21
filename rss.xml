@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[toga]]></title>
+        <description><![CDATA[toga]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 21 Oct 2015 19:23:33 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://www.toga.no/wp-content/uploads/2012/03/127.jpg">]]></description>
+            <link>undefinede5e273f0-7122-4dd2-9696-f93e875d7e5e/index.html</link>
+            <guid isPermaLink="false">e5e273f0-7122-4dd2-9696-f93e875d7e5e</guid>
+            <pubDate>Wed, 21 Oct 2015 19:23:26 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
